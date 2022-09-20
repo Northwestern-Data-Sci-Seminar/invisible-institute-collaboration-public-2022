@@ -1,0 +1,3 @@
+[submodule "example-team-name"]
+	path = example-team-name
+	url = https://github.com/Northwestern-Data-Sci-Seminar/example-team-name.git
