@@ -1,3 +1,8 @@
+
 [submodule "The-Brutal-Dragons"]
 	path = The-Brutal-Dragons
 	url = https://github.com/honghong1012/The-Brutal-Dragons.git
+
+[submodule "example-team-name"]
+	path = example-team-name
+	url = https://github.com/Northwestern-Data-Sci-Seminar/example-team-name.git
