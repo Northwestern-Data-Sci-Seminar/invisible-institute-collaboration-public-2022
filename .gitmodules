@@ -9,3 +9,6 @@
 [submodule "the-wild-blazers"]
 	path = the-wild-blazers
 	url = https://github.com/AnishBhardwaj1/the-wild-blazers.git
+[submodule "The-Daring-Squirrels"]
+	path = The-Daring-Squirrels
+	url = https://github.com/kanahuang/The-Daring-Squirrels.git
