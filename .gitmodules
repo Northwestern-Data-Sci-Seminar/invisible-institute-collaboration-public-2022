@@ -6,6 +6,9 @@
 [submodule "example-team-name"]
 	path = example-team-name
 	url = https://github.com/Northwestern-Data-Sci-Seminar/example-team-name.git
+[submodule "the-wild-blazers"]
+	path = the-wild-blazers
+	url = https://github.com/AnishBhardwaj1/the-wild-blazers.git
 [submodule "The-Daring-Squirrels"]
 	path = The-Daring-Squirrels
 	url = https://github.com/kanahuang/The-Daring-Squirrels.git
