@@ -5,6 +5,9 @@
 [submodule "example-team-name"]
 	path = example-team-name
 	url = https://github.com/Northwestern-Data-Sci-Seminar/example-team-name.git
+[submodule "The-Wise-Kingfishers"]
+	path = The-Wise-Kingfishers
+	url = https://github.com/romansvintitskyy/The-Wise-Kingfishers.git
 [submodule "The-Brave-Boars"]
 	path = The-Brave-Boars
 	url = https://github.com/robinzixuan/The-Brave-Boars.git
@@ -17,3 +20,9 @@
 [submodule "The-Enchanted-Penguins"]
 	path = The-Enchanted-Penguins
 	url = https://github.com/ChanhBuiNorthwestern/The-Enchanted-Penguins.git
+[submodule "dapper-werewolves"]
+	path = dapper-werewolves
+	url = https://github.com/richurdzhang/dapper-werewolves.git
+[submodule "The-Defiant-Deer"]
+	path = The-Defiant-Deer
+	url = https://github.com/Ash-Q/The-Defiant-Deer.git
