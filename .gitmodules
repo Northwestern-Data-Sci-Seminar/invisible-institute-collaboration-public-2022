@@ -17,6 +17,9 @@
 [submodule "The-Daring-Squirrels"]
 	path = The-Daring-Squirrels
 	url = https://github.com/kanahuang/The-Daring-Squirrels.git
+[submodule "The-Spectacular-Badgers"]
+	path = The-Spectacular-Badgers
+	url = https://github.com/jakerogers2022/The-Spectacular-Badgers.git
 [submodule "The-Enchanted-Penguins"]
 	path = The-Enchanted-Penguins
 	url = https://github.com/ChanhBuiNorthwestern/The-Enchanted-Penguins.git
