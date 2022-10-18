@@ -1,6 +1,22 @@
+
+[submodule "The-Brutal-Dragons"]
+	path = The-Brutal-Dragons
+	url = https://github.com/honghong1012/The-Brutal-Dragons.git
 [submodule "example-team-name"]
 	path = example-team-name
 	url = https://github.com/Northwestern-Data-Sci-Seminar/example-team-name.git
 [submodule "The-Wise-Kingfishers"]
 	path = The-Wise-Kingfishers
 	url = https://github.com/romansvintitskyy/The-Wise-Kingfishers.git
+[submodule "The-Brave-Boars"]
+	path = The-Brave-Boars
+	url = https://github.com/robinzixuan/The-Brave-Boars.git
+[submodule "the-wild-blazers"]
+	path = the-wild-blazers
+	url = https://github.com/AnishBhardwaj1/the-wild-blazers.git
+[submodule "The-Daring-Squirrels"]
+	path = The-Daring-Squirrels
+	url = https://github.com/kanahuang/The-Daring-Squirrels.git
+[submodule "The-Defiant-Deer"]
+	path = The-Defiant-Deer
+	url = https://github.com/Ash-Q/The-Defiant-Deer.git
